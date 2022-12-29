@@ -1,4 +1,4 @@
-![Hi , I am Rishi](https://user-images.githubusercontent.com/71087332/210004420-58b1ed52-4ae4-4283-82a3-bae1437cc33e.gif)
+![Untitled design](https://user-images.githubusercontent.com/71087332/210004785-71b09712-9964-4ba4-b6db-0e35d09af3ab.gif)
 <h1 align="center">Hi 👋, I'm Rishi Neelkanth</h1>
 <h3 align="center">A engineering student having keen interest in website and application development.</h3>
 
