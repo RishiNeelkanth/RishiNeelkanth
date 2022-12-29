@@ -28,3 +28,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishineelkanth&show_icons=true&locale=en" alt="rishineelkanth" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishineelkanth&" alt="rishineelkanth" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rishi-neelkanth-854969206/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/71087332/210006422-a2d2a252-00d0-4364-bc4a-ca97d7dc9f47.svg" alt="rishi neelkanth" height="30" width="40" /></a>
+<a href="https://leetcode.com/Rishi_nk/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/71087332/210006072-471b5617-010e-4141-a902-e0eccfd25473.svg" alt="rishi_nk" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rishi_neelkanth/practice" target="blank"><img align="center" src="https://user-images.githubusercontent.com/71087332/210006294-36862365-6d86-4a31-9ab5-1ef0ce46bc3e.svg" alt="rishi_neelkanth" height="30" width="40" /></a>
+</p>
