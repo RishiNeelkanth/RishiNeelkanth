@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishineelkanth&label=Profile%20views&color=0e75b6&style=flat" alt="rishineelkanth" /> </p>
 
-- 🌱 I’m currently learning **Reactjs and Flutter**
+- 🌱 I’m currently learning : **ReactJS and Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RishiNeelkanth](https://github.com/RishiNeelkanth)
+- 👨‍💻 All of my projects are available at : [https://github.com/RishiNeelkanth](https://github.com/RishiNeelkanth)
 
-- 📫 How to reach me **rishi2001gkp@gmail.com**
+- 📫 How to reach me : **rishi2001gkp@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/rvCNV](shorturl.at/rvCNV)
+- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1EnTZDPAaihnaWaH9MEfI3OO9E2dlF1r0/view?usp=share_link">Resume</a>
 
-- ⚡ Fun fact **I am funny😅😅**
+- ⚡ Fun fact : **I am funny😅😅**
 
 
 
